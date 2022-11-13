@@ -1,53 +1,53 @@
 ``To run``
-npm install
-node index.js
+npm install__
+node index.js__
 
 ``Sample Output``
-akhileshpal@AKHILESHPMAC atm % node index.js
-Press Ctrl+C for exit
-atm$ login alice
-Hello, alice
-Your balance is $0
-atm$ deposit 100
-Your balance is $100
-atm$ logout
-Goodbye, alice
-atm$ login bob
-Hello, bob
-Your balance is $0
-atm$ deposit 80
-Your balance is $80
-atm$ transfer alice 50
-Transferred 50 to alice
-Your balance is $30
-atm$ transfer alice 100
-Transferred 100 to alice
-Your balance is $0
-Owed $70 to alice
-atm$ deposit 30
-Transferred $30 to alice
-Your balance is $0
-Your balance is $0
-Owed $40 to alice
-atm$ logout
-Goodbye, bob
-atm$ login alice
-Hello, alice
-Your balance is $210
-Owed $40 from bob
-atm$ transfer bob 30
-Transferred 30 to bob
-Your balance is $210
-Owed $10 from bob
-atm$ logout
-Goodbye, alice
-atm$ login bob
-Hello, bob
-Your balance is $0
-Owed $10 to alice
-atm$ deposit 100
-Transferred $10 to alice
-Your balance is $90
-Your balance is $90
-atm$ logout
-Goodbye, bob
+akhileshpal@AKHILESHPMAC atm % node index.js__
+Press Ctrl+C for exit__
+atm$ login alice__
+Hello, alice__
+Your balance is $0__
+atm$ deposit 100__
+Your balance is $100__
+atm$ logout__
+Goodbye, alice__
+atm$ login bob__
+Hello, bob__
+Your balance is $0__
+atm$ deposit 80__
+Your balance is $80__
+atm$ transfer alice 50__
+Transferred 50 to alice__
+Your balance is $30__
+atm$ transfer alice 100__
+Transferred 100 to alice__
+Your balance is $0__
+Owed $70 to alice__
+atm$ deposit 30__
+Transferred $30 to alice__
+Your balance is $0__
+Your balance is $0__
+Owed $40 to alice__
+atm$ logout__
+Goodbye, bob__
+atm$ login alice__
+Hello, alice__
+Your balance is $210__
+Owed $40 from bob__
+atm$ transfer bob 30__
+Transferred 30 to bob__
+Your balance is $210__
+Owed $10 from bob__
+atm$ logout__
+Goodbye, alice__
+atm$ login bob__
+Hello, bob__
+Your balance is $0__
+Owed $10 to alice__
+atm$ deposit 100__
+Transferred $10 to alice__
+Your balance is $90__
+Your balance is $90__
+atm$ logout__
+Goodbye, bob__
